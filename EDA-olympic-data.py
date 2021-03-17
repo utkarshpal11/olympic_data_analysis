@@ -1,4 +1,5 @@
-# in this file we analyse the 120 years of olympic data
+# in this file we analyse the 120 years of olympic data using python numpy and 
+# pandas and other data manipulating libraries
 
 import numpy as an
 import pandas as pd

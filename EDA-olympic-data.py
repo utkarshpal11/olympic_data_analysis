@@ -37,7 +37,7 @@ goldMedals = merged[merged['Medal'] == 'Gold']
 print(goldMedals)
 print('nan values in goldMedals -->>\n', goldMedals['Age'].isnull().sum())
 
-# to print null values in all columns
+# print null values in all columns
 print(merged.isnull().sum())
 
 # to check NaN values in Age
